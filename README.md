@@ -2,6 +2,6 @@ Sentiment Analysis of user reviews by building a neural network using Keras that
 
 In this module, you will:
 
-Create a Jupyter notebook in Azure Notebooks
-Use Keras to build and train a neural network to perform sentiment analysis
-Use the neural network to analyze text for sentiment
+1. Create a Jupyter notebook in Azure Notebooks
+2. Use Keras to build and train a neural network to perform sentiment analysis
+3. Use the neural network to analyze text for sentiment
